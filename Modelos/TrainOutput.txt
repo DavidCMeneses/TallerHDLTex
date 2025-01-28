@@ -1,0 +1,24 @@
+Create model of DNN
+72/72 - 14s - 198ms/step - accuracy: 0.6417 - loss: 0.7161 - val_accuracy: 0.7448 - val_loss: 0.5225
+Create model of CNN
+72/72 - 25s - 343ms/step - acc: 0.7129 - loss: 0.7195 - val_acc: 0.9103 - val_loss: 0.2548
+Create model of RNN
+72/72 - 97s - 1s/step - acc: 0.2256 - loss: nan - val_acc: 0.2221 - val_loss: nan
+Create Sub model of  0
+17/17 - 7s - 431ms/step - accuracy: 0.6155 - loss: 1.0764 - val_accuracy: 0.9300 - val_loss: 0.2408
+Create Sub model of  1
+21/21 - 7s - 318ms/step - accuracy: 0.5690 - loss: 1.1128 - val_accuracy: 0.8502 - val_loss: 0.4817
+Create Sub model of  2
+36/36 - 7s - 197ms/step - accuracy: 0.5904 - loss: 1.1404 - val_accuracy: 0.7123 - val_loss: 0.7780
+Create Sub model of  0
+17/17 - 14s - 844ms/step - acc: 0.3867 - loss: 1.5345 - val_acc: 0.4902 - val_loss: 1.0077
+Create Sub model of  1
+20/20 - 14s - 701ms/step - acc: 0.3039 - loss: 1.6447 - val_acc: 0.3976 - val_loss: 1.3407
+Create Sub model of  2
+36/36 - 16s - 435ms/step - acc: 0.2972 - loss: 1.5712 - val_acc: 0.3869 - val_loss: 1.3152
+Create Sub model of  0
+17/17 - 22s - 1s/step - acc: 0.3510 - loss: nan - val_acc: 0.3333 - val_loss: nan
+Create Sub model of  1
+20/20 - 28s - 1s/step - acc: 0.2386 - loss: nan - val_acc: 0.2905 - val_loss: nan
+Create Sub model of  2
+36/36 - 47s - 1s/step - acc: 0.2665 - loss: nan - val_acc: 0.2438 - val_loss: nan
