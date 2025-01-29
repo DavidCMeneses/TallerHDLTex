@@ -8,7 +8,4 @@ La carpeta `GLOVE` incluye varios archivos `txt` con embeddings glove de `100` d
 La carpeta `WOS` incluye varios archivos `txt` con los datos de entrenamiento y etiquetas en los dos niveles categóricos. Corresponden con el dataset `WOS-5736`.
 
 ## Modelos
-Esta carpeta contiene varios modelos ya entrenados para los dos niveles categóricos.
-
-## TrainHDLTex.ipynb
-Este archivo se usó para entrenar los modelos.
+Esta carpeta contiene varios modelos para usar.
